@@ -1,5 +1,6 @@
 # WavernServer
 This is for if you want to host a WavernChat server!
+Read our update log here: https://wvupdates.tumblr.com/
 
 # Dependencies for hosting a server..
 # 1. Java JRE and JDK
